@@ -24,7 +24,7 @@ public class Player {
         }
     }
 
-    public void setAction(PossibleActions action) throws Exception {
+    public void setAction(PossibleActions action) {
         this.action = action;
     }
 
